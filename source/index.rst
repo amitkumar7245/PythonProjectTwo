@@ -120,10 +120,6 @@ Kraken wallet support is a powerful tool for trading and managing crypto—but e
 With the right help, you can navigate your crypto journey with confidence.
 
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
 
 .. toctree::
    :maxdepth: 2
